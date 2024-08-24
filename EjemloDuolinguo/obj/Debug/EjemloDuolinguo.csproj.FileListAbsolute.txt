@@ -1,0 +1,16 @@
+C:\Users\Luca\source\repos\EjemloDuolinguo\bin\Debug\EjemloDuolinguo.exe.config
+C:\Users\Luca\source\repos\EjemloDuolinguo\bin\Debug\EjemloDuolinguo.exe
+C:\Users\Luca\source\repos\EjemloDuolinguo\bin\Debug\EjemloDuolinguo.pdb
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.csproj.AssemblyReference.cache
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.Form1.resources
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.Properties.Resources.resources
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.csproj.GenerateResource.cache
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.csproj.CoreCompileInputs.cache
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.exe
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.pdb
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.menuInicio.resources
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.Perfil.resources
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.Pregunta1.resources
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.Pregunta2.resources
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.Seleccioncs.resources
+C:\Users\Luca\source\repos\EjemloDuolinguo\obj\Debug\EjemloDuolinguo.Respuestas.resources
